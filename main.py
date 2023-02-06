@@ -58,7 +58,7 @@ def main() :
     gdsn2f.rmdir()
     gdsmd.rmdir()
     gdt.rmdir()
-
+    
     rm_ns_module()
 
 ##
